@@ -3,7 +3,7 @@
     package="com.jumio.react">
     
     <uses-sdk
-    android:minSdkVersion="19"
+    android:minSdkVersion="16"
     android:targetSdkVersion="27" />
     
     <uses-permission android:name="android.permission.VIBRATE"/>
